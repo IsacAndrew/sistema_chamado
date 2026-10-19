@@ -1,4 +1,4 @@
-# Sistema-Chamado
+# sistema_chamado
 
 Sistema-Chamado é um projeto de help desk que estou desenvolvendo para praticar HTML e CSS na construção de uma interface com diferentes áreas: login, início, chat e chamados. Neste momento, meu foco está na estrutura visual e na organização das telas; o backend e os fluxos do sistema ainda serão desenvolvidos em etapas futuras.
 
