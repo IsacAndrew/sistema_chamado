@@ -19,36 +19,6 @@ A versão da branch `main` é a versão principal do projeto e está executando 
 - Python
 - Flask — estrutura inicial para servir a aplicação
 
-## Executar localmente
-
-É necessário ter Python 3 e `pip` instalados.
-
-```bash
-git clone https://github.com/IsacAndrew/Sistema-Chamado.git
-cd Sistema-Chamado
-python -m venv .venv
-```
-
-Ative o ambiente virtual e instale as dependências:
-
-```bash
-# Windows
-.venv\Scripts\activate
-
-# Linux ou macOS
-source .venv/bin/activate
-
-pip install -r requirements.txt
-```
-
-Inicie a aplicação:
-
-```bash
-python app.py
-```
-
-Acesse `http://127.0.0.1:5000` no navegador.
-
 ## Estado atual
 
 O projeto está em desenvolvimento. A prioridade atual é construir e organizar a interface; as funcionalidades completas de chamados, chat e persistência de dados serão trabalhadas posteriormente, conforme avanço nos estudos de Python e backend.
